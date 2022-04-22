@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! Watashi wa Vampire.js 🧛‍♀️</h1>
+<h1 align="center">Hi 👋! Watashi wa Vampire.js 🧛‍♂️</h1>
 
 <img src="https://user-images.githubusercontent.com/103945371/164713542-f64b9d5d-1c4b-48a2-872f-8d16c33df1c1.svg"/>
 
