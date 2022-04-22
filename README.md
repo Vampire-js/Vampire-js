@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/103945371/164713542-f64b9d5d-1c4b-48a2-872f-8d16c33df1c1.svg"/>
 
-<p >I am a high school student super entusiastic about  <strong>Web Dev</strong> , <strong>Mobile App Dev</strong> , <strong>Game Dev</strong> and also <strong>3D Modelling</strong> </p>
+<p >I am a high school student who is super entusiastic about  <strong>Web Dev</strong> , <strong>Mobile App Dev</strong> , <strong>Game Dev</strong> and <strong>3D Modelling</strong> </p>
 <p >Also , I am super fascinated by chess 😉</p>
 <p > The Technologies I use: <br/></br/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
