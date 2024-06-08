@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋! Watashi wa Vampire.js 🧛‍♂️</h1>
-
-<img src="https://user-images.githubusercontent.com/103945371/164713542-f64b9d5d-1c4b-48a2-872f-8d16c33df1c1.svg"/>
+![image](https://github.com/Vampire-js/Vampire-js/assets/103945371/25176608-e0e6-452c-aaef-9253a43dc1e2)
 
 <p >I am a high school student who is super enthusiastic about  <strong>Web Dev</strong> , <strong>Mobile App Dev</strong> , <strong>Game Dev</strong> and <strong>3D Modelling</strong> </p>
 <p >Also , I am super fascinated by chess 😉</p>
