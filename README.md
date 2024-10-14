@@ -3,4 +3,4 @@
  ![Group 12](https://github.com/Vampire-js/Vampire-js/assets/103945371/24613e06-c0d1-4700-9de2-5e5e4888fb78)
 
 <a href="https://git.io/streak-stats"><img
-      src="https://github-readme-streak-stats.herokuapp.com?user=Vampire-js&theme=react&hide_border=true&include_all_commits=true"
+      src="https://github-readme-streak-stats.herokuapp.com?user=Vampire-js&theme=react&hide_border=true&include_all_commits=true"> </a>
