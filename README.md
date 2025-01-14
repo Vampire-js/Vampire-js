@@ -6,5 +6,5 @@
           src="https://github-readme-stats-three-sage-20.vercel.app/api/top-langs?username=Vampire-js&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true"
           alt="Vampire.js" />
   </td>
-    <td><img src="https://streak-stats.demolab.com?user=Vampire-js&theme=dark&hide_border=true&mode=daily" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=Vampire-js&theme=dark&hide_border=true&mode=daily" /> </td>
 </table>
